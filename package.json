@@ -72,6 +72,7 @@
     "typechain": "hardhat typechain"
   },
   "dependencies": {
+    "@superfluid-finance/ethereum-contracts": "^1.0.0-rc.3",
     "solc": "0.8.1"
   }
 }
